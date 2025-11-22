@@ -1,0 +1,2 @@
+# Advanced-Time-Series-Forecasting-With-Neural-Networks-and-Uncertainty-Quantificationn
+This project explores advanced neural network methods for multi-step time series forecasting using models such as LSTMs, TCNs, or Transformers. Students implement uncertainty quantification techniques like Monte Carlo Dropout or quantile regression and compare performance against classical benchmarks with thorough evaluation.
